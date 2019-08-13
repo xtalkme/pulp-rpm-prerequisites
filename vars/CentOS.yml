@@ -19,3 +19,4 @@ packages:
   - xz-devel
   - zchunk-devel
   - zlib-devel
+  - libmodulemd2-devel
